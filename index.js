@@ -88,17 +88,18 @@
 
 
 // function getElements(arr,n){
-//   while(arr.length-n){
-//      arr.shift();
-//      if(arr.length <= 0){
-//         return arr;
-//      }
-//   }
-//   console.log(arr);
-  
-// }
 
-// getElements([1,2,3,4,5,78,8,9,6],3);
+//     if(n>0 && n<=arr.length){
+//         while(arr.length-n){
+//             arr.shift();
+//         }
+//         console.log(arr);
+//     }else if( !n  ){
+//         console.log(arr.pop())
+//     }
+// }
+  
+//  getElements([1,2,3,4,5,78,8,9,6])
  
 
 //**********************task8 ********************* */
