@@ -96,6 +96,8 @@
 //         console.log(arr);
 //     }else if( !n  ){
 //         console.log(arr.pop())
+//     }else if(n> arr.length){
+//         console.log(arr)
 //     }
 // }
   
